@@ -5,5 +5,5 @@ Features: 1) UPI Payment Integration
           2) Remove from cart option
           3) auto total calculation
           4) QR code generation for desktop if mobile , direct conversion into payment mode like phone-pay.
-Link : https://euphonious-maamoul-567146.netlify.app/
+Link : https://spontaneous-malasada-884c15.netlify.app/
 deployed in netlify
